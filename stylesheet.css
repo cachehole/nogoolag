@@ -12,7 +12,7 @@ body{
 }
 
 a{
-  color:#00F782;
+  color:#0000EE;
   text-decoration: none;
 }
 body{
@@ -52,7 +52,7 @@ body{
 }
 
 a:hover{
-  color:#78be20;
+  color:#0000EE;
 }
 
 h1{
@@ -68,7 +68,7 @@ h2{
 
 h3{
   font-family:'Public Sans';
-  color:#00F782;
+  color:#0000EE;
   font-weight: bold;
 }
 
@@ -130,7 +130,7 @@ h3{
 
 
 .btn:hover{
-  background-color:#00F782;
+  background-color:#0000EE;
   color:#3a3a3a;
 }
 
